@@ -10,9 +10,6 @@ PAR explores practical applications of AI in cybersecurity. Current research foc
 - Adversarial Testing
 - Human-in-the-Loop Security Operations
 
-## Research Approach
-Learn → Build → Instrument → Benchmark → Adversary Emulation → Measure → Harden → Re-test
-
 ## Research Questions
 - How effectively can AI assist with security investigations?
 - How reliably can AI systems select and use security tools?
